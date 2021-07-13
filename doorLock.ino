@@ -216,7 +216,7 @@ const GFXglyph Lato_Black_80Glyphs[] PROGMEM = {
 const GFXfont Lato_Black_80 PROGMEM = {
 (uint8_t  *)Lato_Black_80Bitmaps,(GFXglyph *)Lato_Black_80Glyphs,0x20, 0x7E, 96};
 const char* ssid = "56brw";
-const char* password = "wendyboo";
+const char* password = "xxx";
 int pin;
 int unlock=0;
 
